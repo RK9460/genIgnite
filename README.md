@@ -131,4 +131,5 @@ This will create a `results.csv` or similar output.
 
 By: [Your Name Here]
 
-For queries or bugs, contact: [your_email@example.com](mailto:your_email@example.com)
+For queries or bugs, contact: [rahulkala9460@gmail.com](mailto:rahulkala9460@gmail.com
+)
